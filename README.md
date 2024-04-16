@@ -12,7 +12,7 @@ __Things about me:__
 
 *6. When I finally got the requirements, I had to redo my first year since Environmental Science and Engineering Faculties offered different courses for their first year students.*
 
-*7. I could have stay in Quantity Surveying and be one class ahead of where I am now, but I choose passion over being in a higher class.*
+*7. I could have stayed in Quantity Surveying and be one class ahead of where I am now, but I choose passion over being in a higher class.*
 
 *8. My Quantity Surveying first year results will now serve as a reminder that: (i.) University isn't easy but you can get good grades when you've start working hard and refuse to be uncomfortable in the University System. (ii.) If I can get good grades in a department I don't want to be in, I can get far better grades in the one I want to be in.*
 

@@ -8,7 +8,7 @@ __Things about me:__
 
 *4. Interested in Embedded Systems, Data Structures and Algorithms in C++, Robotics, Computer Vision with C++ and Game Development with Unreal Engine and C++.*
 
-*5. Life hasn't been easy. Didn't get into my dream faculty easily, had to spend one year in Faculty of Environmental Science specifically the Department of Quantity Surveying. During my stay in Quantity Surveying, I have to sacrifice my free time to take extra exams(JAMB and NECO) in order for me to get the requirements for Engineering.*
+*5. Life hasn't been easy. Didn't get into my dream faculty easily, had to spend one year in Faculty of Environmental Science specifically the Department of Quantity Surveying. During my stay in Quantity Surveying, I had to sacrifice my free time to take extra exams(JAMB and NECO) in order for me to get the requirements for Engineering.*
 
 *6. When I finally got the requirements, I had to redo my first year since Environmental Science and Engineering Faculties offered different courses for their first year students.*
 

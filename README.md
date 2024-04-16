@@ -1,4 +1,4 @@
-###Things about me:
+__Things about me:__
 
 *1. My name is David Tamaratare Oghenebrume.*
 *2. I'm a Computer Engineering student of Rivers State University, Nigeria.*

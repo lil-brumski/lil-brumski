@@ -6,7 +6,7 @@ __Things about me:__
 
 *3. I love writing and reading Modern C++ and like using classes and header files.*
 
-*4. Interested in Embedded Systems, Data Structures and Algorithms in C++, Robotics, Computer Vision with C++ and Game Development with Unreal Engine & C++.*
+*4. Interested in Embedded Systems, Robotics, Computer Vision with C++ and Game Development with Unreal Engine & C++.*
 
 *5. Life hasn't been easy. Didn't get into my dream faculty easily, had to spend one year in Faculty of Environmental Science specifically the Department of Quantity Surveying. During my stay in Quantity Surveying, I had to sacrifice my free time to take extra exams(JAMB and NECO) in order for me to get the requirements for Engineering.*
 

@@ -1,6 +1,6 @@
 __Things about me:__
 
-*1. My name is David Tamaratare Oghenebrume. I'm a 17 year old Nigerian male.*
+*1. My name is David Tamaratare Oghenebrume. I'm a 18 year old Nigerian male.*
 
 *2. I'm a Computer Engineering student of Rivers State University, Nigeria.*
 

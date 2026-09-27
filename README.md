@@ -1,19 +1,16 @@
-__Things about me:__
+About
+=====
 
-*1. My name is David Tamaratare Oghenebrume. I'm a 19 year old Nigerian male.*
+* I'm David Tamaratare Oghenebrume. I'm a 19 year old Computer Engineering student
 
-*2. I'm a Computer Engineering student of Rivers State University, Nigeria.*
+____
 
-*3. I love writing and reading Modern C++ and like using classes and header files.*
+* I love writing and reading Modern C++ and like using classes and header files.
 
-*4. Interested in Embedded Systems, Robotics, and Computer Vision with C++.*
+____
 
-*5. Life hasn't been easy. Didn't get into my dream faculty easily, had to spend one year in Faculty of Environmental Science specifically the Department of Quantity Surveying. During my stay in Quantity Surveying, I had to sacrifice my free time to take extra exams(JAMB and NECO) in order for me to get the requirements for Engineering.*
+* Interested in Embedded Systems, Robotics, and Networking with C++.*
 
-*6. When I finally got the requirements, I had to redo my first year since Environmental Science and Engineering Faculties offered different courses for their first year students.*
+____
 
-*7. I could have stayed in Quantity Surveying and be one class ahead of where I am now, but I choose passion over being in a higher class.*
-
-*8. My Quantity Surveying first year results will now serve as a reminder that: (i.) University isn't easy but you can get good grades when you start working hard and refuse to be uncomfortable in the University System. (ii.) If I can get good grades in a department I don't want to be in, I can get far better grades in the one I want to be in.*
-
-*9. That's all for now, thanks for reading.😊😁*
+* Hope to be able to contribute to many C++ projects!
